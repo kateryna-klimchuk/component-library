@@ -2,7 +2,7 @@
   "name": "components-lib",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kateryna-klimchuk.github.io/component-library/",
+  "homepage": "https://kateryna-klimchuk.github.io/component-library",
   "dependencies": {
     "@types/react": "^18.2.55",
     "@types/react-dom": "^18.2.19",
