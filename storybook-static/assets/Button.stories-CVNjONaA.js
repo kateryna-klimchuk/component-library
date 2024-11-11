@@ -1,4 +1,4 @@
-import{B as b}from"./Button-DWzwTCIs.js";import"./jsx-runtime-DFKZ3ixi.js";import"./index-SSXOyoI7.js";const x={title:"Example/Button",component:b},r={args:{primary:!0,label:"Button"}},a={args:{label:"Button"}},e={args:{size:"large",label:"Button"}},s={args:{size:"small",label:"Button"}};var o,t,n;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
+import{B as b}from"./Button-C1haYeAP.js";import"./jsx-runtime-DFKZ3ixi.js";import"./index-SSXOyoI7.js";const x={title:"Example/Button",component:b},r={args:{primary:!0,label:"Button"}},a={args:{label:"Button"}},e={args:{size:"large",label:"Button"}},s={args:{size:"small",label:"Button"}};var o,t,n;r.parameters={...r.parameters,docs:{...(o=r.parameters)==null?void 0:o.docs,source:{originalSource:`{
   args: {
     primary: true,
     label: "Button"
