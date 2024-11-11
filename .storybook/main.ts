@@ -5,7 +5,6 @@ const config: StorybookConfig = {
   core: {
     builder: "@storybook/builder-vite",
   },
-
   addons: [
     "@storybook/addon-onboarding",
     "@storybook/addon-essentials",
@@ -13,18 +12,15 @@ const config: StorybookConfig = {
     "@storybook/addon-interactions",
     "@storybook/addon-mdx-gfm",
   ],
-
   framework: {
     name: "@storybook/react-vite",
     options: {},
   },
-
   staticDirs: ["../public"],
-
   docs: {},
-
   typescript: {
     reactDocgen: "react-docgen-typescript",
   },
 };
+
 export default config;
