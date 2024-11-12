@@ -34,4 +34,10 @@ jobs:
           install_command: yarn install # default: npm ci
           build_command: yarn build-storybook # default: npm run build-storybook
           path: storybook-static # default: dist/storybook
-          checkout: false # default: true
+          checkout:
+            false # default: true
+
+
+            # Ensure environment is set for GitHub Pages
+    environment:
+      name: github-pages
