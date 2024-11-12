@@ -1,4 +1,4 @@
-import{H as c}from"./Header-C0ZAGD5M.js";import"./jsx-runtime-DFKZ3ixi.js";import"./index-SSXOyoI7.js";import"./Button-C1haYeAP.js";const i={title:"Example/Header",component:c},e={args:{user:{name:"Jane Doe"}}},r={};var o,a,s;e.parameters={...e.parameters,docs:{...(o=e.parameters)==null?void 0:o.docs,source:{originalSource:`{
+import{H as c}from"./Header-DJEeiNUv.js";import"./jsx-runtime-CkxqCPlQ.js";import"./index-DJO9vBfz.js";import"./Button-D9-vK0DC.js";const i={title:"Example/Header",component:c},e={args:{user:{name:"Jane Doe"}}},r={};var o,a,s;e.parameters={...e.parameters,docs:{...(o=e.parameters)==null?void 0:o.docs,source:{originalSource:`{
   args: {
     user: {
       name: "Jane Doe"
